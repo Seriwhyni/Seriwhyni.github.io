@@ -9,7 +9,7 @@
                 <tr>
                     <th>No</th>
                     <th>Tanggal dan Waktu</th>
-                    <th>Suhu</th>
+                    <th>suhu</th>
                 </tr>
             </thead>
             <tbody>
