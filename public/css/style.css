@@ -1,0 +1,52 @@
+  @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+  .gbs {
+      box-shadow: 1px 1px 2px 3px green;
+  }
+
+  .width {
+      width: clamp(12rem, 4vw, 24rem);
+  }
+
+  .menu {
+      background: transparent;
+      border: none;
+  }
+
+  .list-menu {
+    position: absolute;
+    top: 4.5rem;
+    transition: all .5s;
+  }
+
+  .max-in {
+    z-index: 999;
+  }
+
+  .bg-img {
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+  .vw-100 {
+    width: 100vw;
+  }
+  .vh-100 {
+    width: 100vh;
+  }
+
+.bg-mydark {
+    background-color: rgba(0, 0, 0, 0.6);
+    transition: all 0.5s;
+}
+
+.card-w75 {
+  width: 75vw;
+}
+.card-w68 {
+  width: 68vw;
+}
+
+.td-none {
+  text-decoration: none;
+  list-style-type: none;
+}
